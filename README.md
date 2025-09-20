@@ -17,7 +17,7 @@
 <div align="center">
 
   <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    💫 About Me (Please note that only 2 out of my 150+ completed projects were uploaded so far, rest are scheduled to be uploaded gradually by the end of 2025)
+    💫 About Me (Please note that as of September 20, 2025, my LinkedIn account has been temporarily suspended without clear reason. This will be resolved within a few days, and I appreciate your understanding in the meantime) (Please note that only 2 out of my 150+ completed projects were uploaded so far, rest are scheduled to be uploaded gradually by the end of 2025)
   </h1>
 
 🎓 **Computer Science Student** at **Titu Maiorescu University** (BSc 2027) 
