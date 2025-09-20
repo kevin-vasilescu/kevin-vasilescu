@@ -51,15 +51,14 @@
 <div align="center">
 
 <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+  
   📊 GitHub Analytics ⬇️
-  </h1>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=5cc0c9&title_color=5cc0c9&icon_color=5cc0c9&bg_color=ffffff"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=5cc0c9&title_color=5cc0c9&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=5cc0c9&title_color=5cc0c9&icon_color=5cc0c9&bg_color=ffffff&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=default&background=ffffff&border=5cc0c9&ring=5cc0c9&fire=5cc0c9&currStreakLabel=5cc0c9" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=5cc0c9&title_color=5cc0c9&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=default&background=ffffff&border=5cc0c9&ring=5cc0c9&fire=5cc0c9&currStreakLabel=5cc0c9&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
