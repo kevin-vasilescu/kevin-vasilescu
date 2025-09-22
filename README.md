@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/kevin-vasilescu/scrap/blob/main/Untitled%20Project-2%20copie.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
 </div>
-
+ 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5cc0c9&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
 </div>
