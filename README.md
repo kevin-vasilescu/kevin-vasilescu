@@ -17,7 +17,7 @@
 <div align="center">
 
   <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    💫 About Me (Please note that as of September 20, 2025, my LinkedIn account has been temporarily suspended without clear reason. This will be resolved within a few days, and I appreciate your understanding in the meantime) (Please note that only 4 out of my 150+ completed projects were uploaded so far, rest are scheduled to be uploaded gradually by the end of 2025)
+    💫 About Me (Please note that as of September 20, 2025, my LinkedIn account has been temporarily suspended without clear reason. This will be resolved within a few days, and I appreciate your understanding in the meantime / September 26th, 2025 LinkedIn support team contacted me to inform that they're actively working on the issue, I appreciate your understanding in the meantime, and I thank you for your patience and kind messages) (Please note that only 4 out of my 150+ completed projects have been publicly uploaded so far, rest are scheduled to be uploaded gradually by the end of 2025)
   </h1>
 
 🎓 **Computer Science Student** at **Titu Maiorescu University** (BSc 2027) 
@@ -77,7 +77,7 @@
   🌐 For any questions, suggestions, or inquiries please contact me via my LinkedIn ⬇️
   </h1>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-vasilescu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
 
