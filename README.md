@@ -1,6 +1,6 @@
 <div align="center" style="color:#d9b0ae;">
 
-  <img src="https://github.com/kevin-vasilescu/scrap/blob/main/Untitled%20Project-2%20copie.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
+  <img src="https://github.com/kevin-vasilescu/scrap/blob/main/image.psd.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
 
