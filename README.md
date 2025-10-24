@@ -3,15 +3,15 @@
 </div>
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cc0c9&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=28&pause=1000&color=5cc0c9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kevin+Vasilescu+%F0%9F%91%8B;Second+Year+Computer+Science+Student+%F0%9F%8E%93;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Cool+Projects,+Focused+On+Data+Science+%F0%9F%9A%80;I+Would+Love+To+Connect,+Add+My+LinkedIn+%F0%9F%98%84" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=28&pause=1000&color=d9b0ae&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kevin+Vasilescu+%F0%9F%91%8B;Second+Year+Computer+Science+Student+%F0%9F%8E%93;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Cool+Projects,+Focused+On+Data+Science+%F0%9F%9A%80;I+Would+Love+To+Connect,+Add+My+LinkedIn+%F0%9F%98%84" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cc0c9&height=100&section=footer&text=&fontSize=90&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=footer&text=&fontSize=90&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -54,11 +54,11 @@
   
   📊 GitHub Analytics ⬇️
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=5cc0c9&title_color=5cc0c9&icon_color=5cc0c9&bg_color=ffffff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=d9b0ae&title_color=d9b0ae&icon_color=d9b0ae&bg_color=ffffff&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=5cc0c9&title_color=5cc0c9&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=d9b0ae&title_color=d9b0ae&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=default&background=ffffff&border=5cc0c9&ring=5cc0c9&fire=5cc0c9&currStreakLabel=5cc0c9&cache_seconds=86400" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=default&background=ffffff&border=d9b0ae&ring=d9b0ae&fire=d9b0ae&currStreakLabel=d9b0ae&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@
   📈 Contribution Activity ⬇️
   </h1>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=5cc0c9&line=5cc0c9&point=5cc0c9&area=true&bg_color=ffffff&hide_border=false&border_color=5cc0c9" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=d9b0ae&line=d9b0ae&point=d9b0ae&area=true&bg_color=ffffff&hide_border=false&border_color=d9b0ae" alt="Contribution Graph"/>
 
 </div>
 
@@ -84,5 +84,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cc0c9&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
