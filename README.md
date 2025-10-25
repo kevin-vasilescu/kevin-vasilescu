@@ -73,13 +73,6 @@
     </tr>
   </table>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
-    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ contribution activity ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
-  </h1>
- 
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=351c75&line=351c75&point=351c75&area=true&bg_color=ffffff&hide_border=false&border_color=351c75" alt="Contribution Graph"/>
- </p>
 
   <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
     ⊹₊˚‧‿̩͙‿ ༺ socials ༻ ‿̩͙‿‧˚₊⊹
