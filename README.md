@@ -1,60 +1,111 @@
-<div align="center" style="color:#d9b0ae;">
+<div align="center" style="color:#351c75;">
 
-  <img src="https://github.com/kevin-vasilescu/scrap/blob/main/image.psd.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
+  <img src="https://github.com/kevin-vasilescu/scrap/blob/main/image.psd.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
+ 
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚⊹₊˚‧‿̩͙‿ ༺ about me ༻ ‿̩͙‿‧˚₊⊹‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
+  </h1>
+  
+    <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+            <td valign="top" align="left" style="padding-right: 20px;">
+        <p>🎓 <strong>Computer Science Student</strong> at <strong>TMU</strong></p>
+        <p>📈 <strong>Data Science Enthusiast</strong> with a passion for building impactful tech solutions</p>
+        <p>🔧 Currently working on <strong>data science/analytics projects</strong></p>
+        <p>📓 Always learning: <strong>Python</strong>, <strong>Ruby</strong>, <strong>C++</strong>, <strong>Rust</strong>, <strong>HTML/CSS</strong></p>
+      </td>
+            <td valign="middle" align="center" style="padding-left: 20px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl2eGNsNnRpY3h2aGxjaW5xYnNyYjVvcXQwNGZjeW40M3Q5djU1ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/J3ZB0wvXjsmJEvI2Dd/giphy.gif" alt="coding gif" width="300" />
+      </td>
+    </tr>
+  </table>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
+<h1 align="center">✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ tech stack & tools ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=28&pause=1000&color=d9b0ae&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kevin+%F0%9F%91%8B;Second+Year+Computer+Science+Student+%F0%9F%8E%93;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Cool+Projects,+Focused+On+Data+Science+%F0%9F%9A%80;I+Would+Love+To+Connect,+Add+My+LinkedIn+%F0%9F%98%84" alt="Typing Animation" />
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td valign="top" align="center" style="padding-right: 20px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBubnVxaWk1YXc1ajIzdmpsZnNzdzEwdm10ZnltMHBydWU3d3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9T4bzIHzqZQNFSM2hl/giphy.gif" alt="tech stack gif" width="300" />
+    </td>
+    <td valign="top" align="left" style="padding-left: 20px;">
+      <table border="0" cellpadding="0" cellspacing="1">
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/Python-351c75?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Ruby-351c75?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td>
+          <td align="center"><img src="https://img.shields.io/badge/C++-351c75?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Rust-351c75?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/Julia-351c75?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"></td>
+          <td align="center"><img src="https://img.shields.io/badge/HTML5-351c75?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+          <td align="center"><img src="https://img.shields.io/badge/CSS3-351c75?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Shell_Script-351c75?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/Jupyter-351c75?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Pandas-351c75?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
+          <td align="center"><img src="https://img.shields.io/badge/NumPy-351c75?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
+          <td align="center"><img src="https://img.shields.io/badge/SciPy-351c75?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/Blender-351c75?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Seaborn-351c75?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></td>
+          <td align="center"><img src="https://img.shields.io/badge/SciKitLearn-351c75?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Keras-351c75?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/TensorFlow-351c75?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td>
+          <td align="center"><img src="https://img.shields.io/badge/PyTorch-351c75?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Spark-351c75?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Hadoop-351c75?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-351c75?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+          <td align="center"><img src="https://img.shields.io/badge/MySQL-351c75?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+          <td align="center"><img src="https://img.shields.io/badge/MongoDB-351c75?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Firebase-351c75?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/AWS-351c75?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Google_Cloud-351c75?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Azure-351c75?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></td>
+          <td align="center"><img src="https://img.shields.io/badge/Docker-351c75?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=footer&text=&fontSize=90&animation=fadeIn" width="100%"/>
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ analytics ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
+  </h1>
+  
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+            <td valign="top" align="center" style="padding-right: 20px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=351c75&title_color=351c75&icon_color=351c75&bg_color=ffffff&cache_seconds=86400"/>
+    <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=351c75&title_color=351c75&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
+    <br>
+            </td>
+            <td valign="middle" align="center" style="padding-left: 20px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJxY3hpOW14bGQ4dm5yZWh3b2J4em9ybm9oODViajF1azBldWg0eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Pb0d5MsNSeGoA2v1zv/giphy.gif" alt="analytics gif" width="300" />
+      </td>
+    </tr>
+  </table>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ⊹₊˚‧‿̩͙‿ ༺ about me ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ contribution activity ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
+  </h1>
 
-  <p>🎓 <strong>Computer Science Student</strong> at <strong>TMU</strong></p>
-  <p>📈 <strong>Data Science Enthusiast</strong> with a passion for building impactful tech solutions</p>
-  <p>🔧 Currently working on <strong>data science/analytics projects</strong></p>
-  <p>📓 Always learning: <strong>Python</strong>, <strong>Ruby</strong>, <strong>C++</strong>, <strong>Rust</strong>, <strong>HTML/CSS</strong></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=351c75&line=351c75&point=351c75&area=true&bg_color=ffffff&hide_border=false&border_color=351c75" alt="Contribution Graph"/>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ⊹₊˚‧‿̩͙‿ ༺ tech stack & tools ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+    ⊹₊˚‧‿̩͙‿ ༺ socials ༻ ‿̩͙‿‧˚₊⊹
+  </h1>
 
-  ![Python](https://img.shields.io/badge/Python-d9b0ae?style=for-the-badge&logo=python&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-d9b0ae?style=for-the-badge&logo=ruby&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-d9b0ae?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-d9b0ae?style=for-the-badge&logo=rust&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-d9b0ae?style=for-the-badge&logo=html5&logoColor=white)
-
-  ![Blender](https://img.shields.io/badge/Blender-d9b0ae?style=for-the-badge&logo=blender&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-d9b0ae?style=for-the-badge&logo=git&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-d9b0ae?style=for-the-badge&logo=apple&logoColor=white)
-
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ⊹₊˚‧‿̩͙‿ ༺ analytics ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=d9b0ae&title_color=d9b0ae&icon_color=d9b0ae&bg_color=ffffff&cache_seconds=86400"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=d9b0ae&title_color=d9b0ae&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=default&background=ffffff&border=d9b0ae&ring=d9b0ae&fire=d9b0ae&currStreakLabel=d9b0ae&cache_seconds=86400" alt="GitHub Streak"/>
-
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ⊹₊˚‧‿̩͙‿ ༺ contribution activity ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=d9b0ae&line=d9b0ae&point=d9b0ae&area=true&bg_color=ffffff&hide_border=false&border_color=d9b0ae" alt="Contribution Graph"/>
-
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ⊹₊˚‧‿̩͙‿ ༺ socials ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-d9b0ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
-  [![GitHub](https://img.shields.io/badge/GitHub-d9b0ae?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
-  [![Email](https://img.shields.io/badge/Email-d9b0ae?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d9b0ae&height=100&section=footer&animation=fadeIn" width="100%"/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-351c75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
+  [![GitHub](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
+  [![Email](https://img.shields.io/badge/Email-351c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
 
 </div>
