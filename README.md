@@ -58,19 +58,7 @@
           <td align="center"><img src="https://img.shields.io/badge/PyTorch-351c75?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
           <td align="center"><img src="https://img.shields.io/badge/Spark-351c75?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"></td>
           <td align="center"><img src="https://img.shields.io/badge/Hadoop-351c75?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-351c75?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
-          <td align="center"><img src="https://img.shields.io/badge/MySQL-351c75?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-          <td align="center"><img src="https://img.shields.io/badge/MongoDB-351c75?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Firebase-351c75?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/AWS-351c75?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Google_Cloud-351c75?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Azure-351c75?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Docker-351c75?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
-        </tr>
+        </tr>
       </table>
     </td>
   </tr>
