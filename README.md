@@ -33,31 +33,26 @@
           <td align="center"><img src="https://img.shields.io/badge/Python-351c75?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
           <td align="center"><img src="https://img.shields.io/badge/Ruby-351c75?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td>
           <td align="center"><img src="https://img.shields.io/badge/C++-351c75?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Rust-351c75?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></td>
         </tr>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/Julia-351c75?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"></td>
           <td align="center"><img src="https://img.shields.io/badge/HTML5-351c75?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
           <td align="center"><img src="https://img.shields.io/badge/CSS3-351c75?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Shell_Script-351c75?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></td>
         </tr>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/Jupyter-351c75?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td>
           <td align="center"><img src="https://img.shields.io/badge/Pandas-351c75?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
           <td align="center"><img src="https://img.shields.io/badge/NumPy-351c75?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
-          <td align="center"><img src="https://img.shields.io/badge/SciPy-351c75?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></td>
         </tr>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/Blender-351c75?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></td>
           <td align="center"><img src="https://img.shields.io/badge/Seaborn-351c75?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></td>
           <td align="center"><img src="https://img.shields.io/badge/SciKitLearn-351c75?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Keras-351c75?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></td>
         </tr>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/TensorFlow-351c75?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td>
           <td align="center"><img src="https://img.shields.io/badge/PyTorch-351c75?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
           <td align="center"><img src="https://img.shields.io/badge/Spark-351c75?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Hadoop-351c75?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop"></td>
         </tr>
       </table>
     </td>
