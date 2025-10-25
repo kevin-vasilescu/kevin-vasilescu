@@ -1,4 +1,4 @@
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+<h1 style="font-size:3rem; margin-bottom:0.5rem;">
     ✧･ﾟ: *✧･ﾟ:* ⊹₊˚⊹₊˚‧‿̩͙‿ ༺ about me ༻ ‿̩͙‿‧˚₊⊹‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
   </h1>
   
@@ -49,13 +49,13 @@
           <td align="center"><img src="https://img.shields.io/badge/TensorFlow-351c75?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td>
           <td align="center"><img src="https://img.shields.io/badge/PyTorch-351c75?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
           <td align="center"><img src="https://img.shields.io/badge/Spark-351c75?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"></td>
-        </tr>
+        </tr>
       </table>
     </td>
   </tr>
 </table>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
     ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ analytics ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
   </h1>
   
@@ -69,22 +69,35 @@
             </td>
             <td valign="middle" align="center" style="padding-left: 20px;">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJxY3hpOW14bGQ4dm5yZWh3b2J4em9ybm9oODViajF1azBldWg0eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Pb0d5MsNSeGoA2v1zv/giphy.gif" alt="analytics gif" width="300" />
-      </td>
+        </td>
     </tr>
   </table>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
     ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ contribution activity ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
   </h1>
-
+ 
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&color=351c75&line=351c75&point=351c75&area=true&bg_color=ffffff&hide_border=false&border_color=351c75" alt="Contribution Graph"/>
+ </p>
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;">
+  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
     ⊹₊˚‧‿̩͙‿ ༺ socials ༻ ‿̩͙‿‧˚₊⊹
   </h1>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-351c75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
-  [![GitHub](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
-  [![Email](https://img.shields.io/badge/Email-351c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
+ 
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+            <td valign="middle" align="center" style="padding-right: 20px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Z2emtxemJsN2l6ZjU0aWs3OG9uNGRhb2pyNGVvdjN3NnNib2VyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wSyzkyPNOBFx3MzsoA/giphy.gif" alt="socials gif" width="300" />
+      </td>
+            <td valign="middle" align="center" style="padding-left: 20px;">
+                  <p align="center"> 
+            [![LinkedIn](https://img.shields.io/badge/LinkedIn-351c75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
+            [![GitHub](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
+            [![Email](https://img.shields.io/badge/Email-351c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
+          </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
