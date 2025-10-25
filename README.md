@@ -1,7 +1,3 @@
-<div align="center" style="color:#351c75;">
-
-  <img src="https://github.com/kevin-vasilescu/scrap/blob/main/image.psd.png?raw=true" alt="Kevin Vasilescu Header" width="1250" height="250" />
- 
   <h1 style="font-size:3rem; margin-bottom:0.5rem;">
     ✧･ﾟ: *✧･ﾟ:* ⊹₊˚⊹₊˚‧‿̩͙‿ ༺ about me ༻ ‿̩͙‿‧˚₊⊹‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
   </h1>
