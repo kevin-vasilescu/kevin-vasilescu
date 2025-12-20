@@ -1,96 +1,151 @@
-<h1 style="font-size:3rem; margin-bottom:0.5rem;">
-    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚⊹₊˚‧‿̩͙‿ ༺ about me ༻ ‿̩͙‿‧˚₊⊹‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
-  </h1>
-  
-    <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-            <td valign="top" align="left" style="padding-right: 20px;">
-        <p>🎓 <strong>Computer Science Student</strong> at <strong>TMU</strong></p>
-        <p>📈 <strong>Data Science Enthusiast</strong> with a passion for building impactful tech solutions</p>
-        <p>🔧 Currently working on <strong>data science/analytics projects</strong></p>
-        <p>📓 Always learning: <strong>Python</strong>, <strong>Ruby</strong>, <strong>C++</strong>, <strong>Rust</strong>, <strong>HTML/CSS</strong></p>
-      </td>
-            <td valign="middle" align="center" style="padding-left: 20px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl2eGNsNnRpY3h2aGxjaW5xYnNyYjVvcXQwNGZjeW40M3Q5djU1ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/J3ZB0wvXjsmJEvI2Dd/giphy.gif" alt="coding gif" width="300" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
 
-<h1 align="center">✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ tech stack & tools ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧</h1>
+<!-- Animated Header with Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A4C93&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Vasilescu+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Impactful+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td valign="top" align="center" style="padding-right: 20px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBubnVxaWk1YXc1ajIzdmpsZnNzdzEwdm10ZnltMHBydWU3d3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9T4bzIHzqZQNFSM2hl/giphy.gif" alt="tech stack gif" width="300" />
-    </td>
-    <td valign="top" align="left" style="padding-left: 20px;">
-      <table border="0" cellpadding="0" cellspacing="1">
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/Python-351c75?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Ruby-351c75?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td>
-          <td align="center"><img src="https://img.shields.io/badge/C++-351c75?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/Julia-351c75?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"></td>
-          <td align="center"><img src="https://img.shields.io/badge/HTML5-351c75?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-          <td align="center"><img src="https://img.shields.io/badge/CSS3-351c75?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/Jupyter-351c75?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Pandas-351c75?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
-          <td align="center"><img src="https://img.shields.io/badge/NumPy-351c75?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/Blender-351c75?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Seaborn-351c75?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></td>
-          <td align="center"><img src="https://img.shields.io/badge/SciKitLearn-351c75?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/TensorFlow-351c75?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td>
-          <td align="center"><img src="https://img.shields.io/badge/PyTorch-351c75?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
-          <td align="center"><img src="https://img.shields.io/badge/Spark-351c75?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=kevin-vasilescu&style=for-the-badge&color=6A4C93)
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
-    ✧･ﾟ: *✧･ﾟ:* ⊹₊˚‧‿̩͙‿ ༺ analytics ༻ ‿̩͙‿‧˚₊⊹ *:･ﾟ✧*:･ﾟ✧
-  </h1>
-  
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-            <td valign="top" align="center" style="padding-right: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=351c75&title_color=351c75&icon_color=351c75&bg_color=ffffff&cache_seconds=86400"/>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=default&border_color=351c75&title_color=351c75&bg_color=ffffff&hide_progress=true&cache_seconds=86400"/>
-    <br>
-            </td>
-            <td valign="middle" align="center" style="padding-left: 20px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJxY3hpOW14bGQ4dm5yZWh3b2J4em9ybm9oODViajF1azBldWg0eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Pb0d5MsNSeGoA2v1zv/giphy.gif" alt="analytics gif" width="300" />
-        </td>
-    </tr>
-  </table>
+<!-- Social Links with Hover Effects -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A4C93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
 
+---
 
-  <h1 style="font-size:3rem; margin-bottom:0.5rem;" align="center">
-    ⊹₊˚‧‿̩͙‿ ༺ socials ༻ ‿̩͙‿‧˚₊⊹
-  </h1>
- 
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-            <td valign="middle" align="center" style="padding-right: 20px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Z2emtxemJsN2l6ZjU0aWs3OG9uNGRhb2pyNGVvdjN3NnNib2VyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wSyzkyPNOBFx3MzsoA/giphy.gif" alt="socials gif" width="300" />
-      </td>
-            <td valign="middle" align="center" style="padding-left: 20px;">
-                  <p align="center"> 
-            [![LinkedIn](https://img.shields.io/badge/LinkedIn-351c75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
-            [![GitHub](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
-            [![Email](https://img.shields.io/badge/Email-351c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
-          </p>
-      </td>
-    </tr>
-  </table>
+### 💫 About Me
+
+```typescript
+const kevin = {
+    education: "Computer Science @ TMU",
+    focus: ["Data Science", "Analytics", "Machine Learning"],
+    currentlyLearning: ["Python", "Ruby", "C++", "Rust"],
+    lookingFor: "Data Analyst & Software Engineering Opportunities",
+    funFact: "I turn data into insights and coffee into code ☕"
+};
+```
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<!-- GitHub Stats Card with Custom Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6A4C93&icon_color=6A4C93&text_color=c9d1d9"/>
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6A4C93&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevin-vasilescu&theme=radical&hide_border=true&background=0D1117&stroke=6A4C93&ring=6A4C93&fire=FF6B6B&currStreakLabel=6A4C93)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=react-dark&hide_border=true&bg_color=0d1117&color=6A4C93&line=6A4C93&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-vasilescu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph LR
+    A[Data Analytics] --> D[Career Growth]
+    B[Machine Learning] --> D
+    C[Software Engineering] --> D
+    D --> E[Building Solutions]
+    style D fill:#6A4C93,stroke:#fff,stroke-width:2px
+    style E fill:#FF6B6B,stroke:#fff,stroke-width:2px
+```
+
+</div>
+
+- 🔭 Working on **data science and analytics projects**
+- 🌱 Learning **advanced Python, C++, and Rust**
+- 👯 Looking to collaborate on **open source data science projects**
+- 🎓 Pursuing opportunities in **Data Analytics & Software Engineering**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning**
+- 📫 Reach me at **vasilescukevin@gmail.com**
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/kevin-vasilescu/kevin-vasilescu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### ✨ Show Some Love
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
