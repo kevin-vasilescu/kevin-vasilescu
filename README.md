@@ -92,8 +92,7 @@ const kevin = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-vasilescu&theme=radical&no-frame=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-vasilescu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)</div>
 
 ---
 
