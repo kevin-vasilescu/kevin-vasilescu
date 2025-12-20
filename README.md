@@ -136,16 +136,9 @@ graph LR
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### ✨ Show Some Love
 
 If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
