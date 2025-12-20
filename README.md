@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-```
+```typescript
 const kevin = {
     education: "Computer Science @ TMU",
     focus: ["Data Science", "Analytics", "Machine Learning"],
@@ -65,24 +65,24 @@ const kevin = {
 <div align="center">
   
 <!-- GitHub Stats Card with Custom Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a2332&title_color=5B7C99&icon_color=7A9CC6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5B7C99&icon_color=5B7C99&text_color=c9d1d9"/>
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=1a2332&title_color=5B7C99&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=5B7C99&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevin-vasilescu&theme=cobalt&hide_border=true&background=1a2332&stroke=5B7C99&ring=7A9CC6&fire=6B8CAE&currStreakLabel=5B7C99)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevin-vasilescu&theme=radical&hide_border=true&background=0D1117&stroke=5B7C99&ring=5B7C99&fire=6B8CAE&currStreakLabel=5B7C99)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=github-compact&hide_border=true&bg_color=1a2332&color=5B7C99&line=7A9CC6&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-vasilescu&theme=react-dark&hide_border=true&bg_color=0d1117&color=5B7C99&line=5B7C99&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -92,7 +92,7 @@ const kevin = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-vasilescu&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-vasilescu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -102,15 +102,15 @@ const kevin = {
 
 <div align="center">
 
-```
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#5B7C99', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7A9CC6', 'lineColor':'#6B8CAE', 'secondaryColor':'#4A6FA5', 'tertiaryColor':'#3E5266'}}}%%
+```mermaid
+%%{init: {'theme':'dark'}}%%
 graph LR
     A[Data Analytics] --> D[Career Growth]
     B[Machine Learning] --> D
     C[Software Engineering] --> D
     D --> E[Building Solutions]
-    style D fill:#5B7C99,stroke:#7A9CC6,stroke-width:2px,color:#fff
-    style E fill:#6B8CAE,stroke:#7A9CC6,stroke-width:2px,color:#fff
+    style D fill:#5B7C99,stroke:#fff,stroke-width:2px
+    style E fill:#6B8CAE,stroke:#fff,stroke-width:2px
 ```
 
 </div>
