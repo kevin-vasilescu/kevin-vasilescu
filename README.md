@@ -15,7 +15,7 @@
 
 ### 🌸 Professional Profile
 
-Data Scientist and Computer Science graduate specializing in transforming complex datasets into strategic business assets. I build scalable machine learning models, optimize data architectures, and design intuitive analytics dashboards that drive evidence-based decision-making. 
+Data Scientist and Computer Science student specializing in transforming complex datasets into strategic business assets. I build scalable machine learning models, optimize data architectures, and design intuitive analytics dashboards that drive evidence-based decision-making. 
 
 * **Core Competencies:** Predictive Modeling, Statistical Analysis, ETL Pipelines, Data Visualization
 * **Current Focus:** Implementing Deep Learning architectures (PyTorch) and Cloud Deployment (AWS)
@@ -89,6 +89,5 @@ Data Scientist and Computer Science graduate specializing in transforming comple
 [![LinkedIn](https://img.shields.io/badge/kevinvasilescu-A8D5A2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
 
 <br>
-🌸 🌿 🌸 🌿 🌸
 
 </div>
