@@ -12,9 +12,9 @@
 </div>
 
 ---
-🎓 **Background:** 2nd year B.Sc. in Computer Science (TMU) | @Adobe Certified Graphic Designer |
+🎓 **Background:** 3rd year B.Sc. in Computer Science (TMU)
 
-🔭 **Future Trajectory:** Pursuing a Master’s in Data Science / AI to bridge the gap between predictive modeling, neural architectures, and enterprise-level software.
+🔭 **Future Trajectory:** Pursuing a Master’s in Data Science / AI.
 
 💡 **Core Focus:** Full-Stack Engineering, Exploratory Data Analysis (EDA), and Scalable ML Ops.
 
