@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Kevin+Vasilescu;Software+Engineer+%7C+Data+Scientist;Certified+Graphic+Designer;Algorithms+Meet+Aesthetics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Kevin+Vasilescu;Data+Science;;Algorithms+Meet+Aesthetics)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kevin-vasilescu&color=FFB7C5&style=flat-square" alt="Profile Views" />
 <br><br>
