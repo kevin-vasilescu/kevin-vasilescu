@@ -1,155 +1,173 @@
-
-
 <div align="center">
 
 <br />
+
+<sub>COMPUTER SCIENCE · MACHINE LEARNING · PRODUCT ENGINEERING</sub>
+
+# Kevin Vasilescu
+
+**I build data-driven systems that are rigorous under the hood<br />and considered at the interface.**
+
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=780&lines=Computer+Science+Student+%7C+Machine+Learning;Data+Science+%7C+EDA+%7C+ML+Ops;Building+clean%2C+scalable%2C+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=474747&center=true&vCenter=true&width=680&lines=Computer+Science+%C3%97+Machine+Learning;Data+Science+%C3%97+Product+Engineering;From+raw+data+to+polished+software" alt="Computer Science, Machine Learning, and Product Engineering" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=kevin-vasilescu&color=111111&style=flat-square&label=Profile+Views" alt="Profile Views" />
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevin-vasilescu)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-474747?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinvasilescu)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
 
 <br />
-<br />
 
-<a href="https://github.com/kevin-vasilescu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-View_Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://linkedin.com/in/kevinvasilescu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:vasilescukevin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=kevin-vasilescu&color=474747&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-***
+---
 
-## About 
+## 01 / Profile
 
-<table width="100%">
-  <tr>
-    <td width="58%" valign="top">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 **Background:** 3rd year B.Sc. in Computer Science (TMU)
-- 🔭 **Future Trajectory:** Pursuing a Master's in Data Science / AI
-- 💡 **Core Focus:** Full-Stack Engineering, Exploratory Data Analysis (EDA), and Scalable ML Ops
-- 🎯 **Positioning:** Combining software engineering, analytics, and design to build polished, practical products
+### Engineering with range.
 
-</td>
-<td width="42%" valign="top" align="center">
+I am a third-year Computer Science student at **Toronto Metropolitan University**, working where software engineering, analytics, and design meet.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=transparent&hide_border=true&title_color=111111&icon_color=111111&text_color=333333&rank_icon=github" alt="GitHub Stats" />
+My focus is building practical products across the full lifecycle: exploring data, developing models, engineering reliable systems, and shaping clear interfaces around them.
 
 </td>
-  </tr>
+<td width="40%" valign="top">
+
+**NOW**  
+B.Sc. Computer Science · Year 3
+
+**NEXT**  
+M.Sc. Data Science / Artificial Intelligence
+
+**FOCUS**  
+Full-stack · EDA · MLOps · UI/UX
+
+</td>
+</tr>
 </table>
 
-***
+---
 
-## Featured Technical Portfolio 
+## 02 / Selected Work
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Algorithmic Retention Engine](https://github.com/kevin-vasilescu/repo-link)
+<sub>FEATURED · MACHINE LEARNING</sub>
 
-Built a scalable machine learning architecture using **Random Forests** and **XGBoost** to evaluate user behavior and predict drop-off rates, delivering an interpretable model with **85% accuracy** for targeted retention campaigns.
+### Algorithmic Retention Engine
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
+A scalable machine-learning architecture using **Random Forests** and **XGBoost** to evaluate user behaviour and predict drop-off risk—delivering an interpretable model with **85% accuracy** for targeted retention campaigns.
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-474747?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+
+<sub>Repository link pending</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [Full-Stack Analytics Interface](https://github.com/kevin-vasilescu/repo-link)
+<sub>FEATURED · DATA PRODUCT</sub>
 
-Engineered automated **SQL** data pipelines and architected a visually refined analytics dashboard, transforming raw operational data into a business tool and reducing reporting latency by **40%** through optimized query architecture.
+### Full-Stack Analytics Interface
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tableau-111111?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+Automated **SQL** data pipelines paired with a refined analytics interface, turning raw operational data into a practical business tool and reducing reporting latency by **40%** through optimized queries.
+
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-474747?style=flat-square&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+
+<sub>Repository link pending</sub>
 
 </td>
-  </tr>
+</tr>
 </table>
 
-> Explore my complete blend of software engineering, data science, and design projects in my [repositories](https://github.com/kevin-vasilescu?tab=repositories).
+<div align="right">
+  <a href="https://github.com/kevin-vasilescu?tab=repositories"><strong>Explore all repositories →</strong></a>
+</div>
 
-***
+---
 
-## Technical & Creative Ecosystem
+## 03 / Capabilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SOFTWARE & DATA**
+
+![Python](https://img.shields.io/badge/Python-1111111?style=flat-square&logo=python&logoColor=white)
+![pC++](https://img.shields.io/badge/C%2B%2B-474747?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-474747?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+
+**MACHINE LEARNING**
+
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-474747?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-474747?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**DESIGN & VISUALIZATION**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-474747?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![Tableau](https://img.shields.io/badge/Data_Viz-474747?style=flat-square&logo=tableau&logoColor=white)
+
+**TOOLS & ENVIRONMENTS**
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-474747?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-474747?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / Activity
 
 <div align="center">
 
-### Software Engineering & Databases 
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=transparent&hide_border=true&title_color=111111&icon_color=474747&text_color=474747&rank_icon=github" alt="Kevin's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=474747" alt="Kevin's most-used languages" />
 
-### Data Science & Artificial Intelligence 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
-
-### Graphic Design & UI/UX 
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Data_Viz-111111?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Viz" />
-</p>
-
-### DevOps, Cloud & Environments 
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=transparent&hide_border=true&ring=111111&fire=474747&currStreakLabel=111111&sideNums=474747&currStreakNum=111111&dates=777777&sideLabels=474747" alt="Kevin's GitHub contribution streak" />
 
 </div>
 
-***
-
-## GitHub Metrics 
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=transparent&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideNums=333333&currStreakNum=111111&dates=666666&sideLabels=333333" alt="GitHub Streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="Top Languages" />
-</div>
-
-
-## Feel free to contact me for any questions/inquiries following one of the links down below 
+---
 
 <div align="center">
 
-<a href="mailto:vasilescukevin@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://linkedin.com/in/kevinvasilescu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/kevinvasilescu-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://discord.com/users/1421779114037350420" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+### Let’s make useful things, thoughtfully.
+
+Open to conversations about software engineering, data science, machine learning, and design.
+
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasilescukevin@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/kevinvasilescu) » [GitHub](https://github.com/kevin-vasilescu) » [Discord](https://discord.com/users/1421779114037350420)
+
+<br />
+
+<sub>DESIGNED WITH RESTRAINT · BUILT WITH INTENT</sub>
 
 </div>
-
-***
