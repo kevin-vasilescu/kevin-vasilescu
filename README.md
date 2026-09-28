@@ -2,7 +2,7 @@
 
 <br />
 
-<sub>COMPUTER SCIENCE · MACHINE LEARNING · PRODUCT ENGINEERING</sub>
+<sub>COMPUTER SCIENCE · BIOTECHNOLOGY · SOFTWARE DEVELOPMENT</sub>
 
 # Kevin Vasilescu
 
@@ -34,7 +34,7 @@
 
 ### Engineering with range.
 
-I am a third-year Computer Science student at **Toronto Metropolitan University**, working where software engineering, analytics, and design meet.
+I am a third-year Computer Science student at **Titu Maiorescu University**, working where software development, analytics, and design meet.
 
 My focus is building practical products across the full lifecycle: exploring data, developing models, engineering reliable systems, and shaping clear interfaces around them.
 
@@ -45,7 +45,7 @@ My focus is building practical products across the full lifecycle: exploring dat
 B.Sc. Computer Science · Year 3
 
 **NEXT**  
-M.Sc. Data Science / Artificial Intelligence
+M.Sc. Prospect
 
 **FOCUS**  
 Full-stack · EDA · MLOps · UI/UX
@@ -144,11 +144,6 @@ Automated **SQL** data pipelines paired with a refined analytics interface, turn
 ---
 
 ## 04 / Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevin-vasilescu&show_icons=true&theme=transparent&hide_border=true&title_color=111111&icon_color=474747&text_color=474747&rank_icon=github" alt="Kevin's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-vasilescu&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=474747" alt="Kevin's most-used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-vasilescu&theme=transparent&hide_border=true&ring=111111&fire=474747&currStreakLabel=111111&sideNums=474747&currStreakNum=111111&dates=777777&sideLabels=474747" alt="Kevin's GitHub contribution streak" />
 
