@@ -6,13 +6,11 @@
 
 # Kevin A. A. Vasilescu
 
-**I build data-driven systems that are rigorous under the hood<br />and considered at the interface.**
-
 <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=FFFFF0&center=true&vCenter=true&width=680&lines=Computer+Science+%C3%97+Machine+Learning;Data+Science+%C3%97+Product+Engineering;From+raw+data+to+polished+software" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=474747&center=true&vCenter=true&width=680&lines=Computer+Science+%C3%97+Machine+Learning;Data+Science+%C3%97+Product+Engineering;From+raw+data+to+polished+software" alt="Computer Science, Machine Learning, and Product Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=474747&center=true&vCenter=true&width=680&lines=Computer+Science+%C3%97+Machine+Learning;Data+Science+%C3%97+Web+Development;From+raw+data+to+polished+software" alt="Computer Science, Machine Learning, and Product Engineering" />
 </picture>
 
 <br />
@@ -37,9 +35,7 @@
 <tr>
 <td width="60%" align="center" valign="middle">
 
-### Engineering with range.
-
-I am a third-year Computer Science student at **Titu Maiorescu University**, working where software development, analytics, and design meet.
+BSc. Computer Science @ TMU
 
 My focus is building practical products across the full lifecycle: exploring data, developing models, engineering reliable systems, and shaping clear interfaces around them.
 
@@ -196,7 +192,17 @@ Automated **SQL** data pipelines paired with a refined analytics interface, turn
 
 <br />
 
-[LinkedIn](https://linkedin.com/in/kevinvasilescu) · [GitHub](https://github.com/kevin-vasilescu) · [Discord](https://discord.com/users/1421779114037350420)
+<div align="center">
+  <a href="https://linkedin.com/in/kevinvasilescu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F5F1DF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kevin-vasilescu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-F5F1DF?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/1421779114037350420" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-F5F1DF?style=for-the-badge&logo=discord&logoColor=111111" alt="Discord"/>
+  </a>
+</div>
 
 <br />
 <br />
